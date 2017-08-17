@@ -151,22 +151,20 @@ body {
 .logo {
   width: 280px;
   height: 85px;
-  margin-bottom: -7px;
   background-image: url("images/logo.png");
-  -webkit-background-size: 65px 65px;
-  -moz-background-size: 65px 65px;
-  background-size: 65px 65px;
-  background-position: left;
+  -webkit-background-size: 280px 78px;
+  -moz-background-size: 280px 78px;
+  background-size: 280px 78px;
+  background-position: left center;
   background-repeat: no-repeat;
 }
 .logo-text {
   width: auto;
   color: #000;
-  font-size: 40px;
+  font-size: 24px;
   font-weight: 700;
-  line-height: 88px;
-  color: #999;
-  margin: 0px 0px 0px 67px;
+  line-height: 57px;
+  margin-right: 25px;
   text-decoration: none;
   background-image: none;
 }
