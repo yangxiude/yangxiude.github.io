@@ -280,6 +280,7 @@ a.article-title:hover,
   font-weight: bold;
 }
 #header {
+  margin-top: 7px;
   font-size: 19px;
   position: relative;
 }
@@ -310,7 +311,7 @@ a.article-title:hover,
   -ms-transition: opacity 0.2s;
   transition: opacity 0.2s;
   display: block;
-  padding: 32px 6px 0px 6px;
+  padding: 40px 6px 0px 6px;
 }
 .main-nav-link {
   font-weight: 500;
@@ -357,16 +358,12 @@ a.article-title:hover,
   }
 }
 .article {
-  margin: 20px 0px 0px 0px;
+  margin: 35px 0px 0px 0px;
   border-bottom: 1px solid #ddd;
 }
 .article-inner {
   margin-bottom: 10px;
   overflow: hidden;
-}
-.article-banner {
-  width: 100%;
-  height: auto;
 }
 .article-meta:before,
 .article-meta:after {
@@ -407,7 +404,12 @@ a.article-title:hover,
 .article-comment-link {
   margin-left: 8px;
 }
+.article-banner {
+  width: 100%;
+  height: auto;
+}
 .article-header {
+  margin-top: 18px;
   margin-bottom: 8px;
 }
 .article-title {
